@@ -1,7 +1,6 @@
 # 第二周
-todo,仿照下面第一周的格式即可
+todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
 
-<br/>
 
 # 第一周（11月4号-11月10号）
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
@@ -16,3 +15,7 @@ todo,仿照下面第一周的格式即可
 | 选题人 | 验题人 | 搜索         | [岛屿数量](https://leetcode.cn/problems/number-of-islands/description/?envType=problem-list-v2&envId=breadth-first-search) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 中等 |
 | 选题人 | 验题人 | stack        | [最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=stack) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
 | 选题人 | 验题人 | stack        | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=stack)      | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
+
+| 选题人 | 验题人 | stack        | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=stack)      | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
+| 选题人 | 验题人 | stack        | [柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=problem-list-v2&envId=monotonic-stack)      | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
+| 选题人 | 验题人 | stack        | [车队](https://leetcode.cn/problems/car-fleet/description/?envType=problem-list-v2&envId=monotonic-stack)      | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
