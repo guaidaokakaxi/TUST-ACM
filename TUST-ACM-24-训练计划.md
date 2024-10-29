@@ -2,7 +2,7 @@
 TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、王森、韩高臻组成。目标是代表TUST参加xcpc（icpc/ccpc）比赛。  
 <br/>
 # 二、队员组成
-# <font color="#dd0000">todo 填写个人信息</font><br />
+# `todo 填写个人信息`
 | 姓名 | github_id | 年级 | 学院 |
 |:----:|:----:|:----:|:----:|
 | 奥维 | guaidaokakaxi | 2014 | 软件工程 |
