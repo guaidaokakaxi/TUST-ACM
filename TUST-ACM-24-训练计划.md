@@ -5,7 +5,7 @@ TUST-ACM战队成立于2024年5月，初始成员由贾舒奥维，赵子涵，�
 | 姓名/id | 年级 | 工作 |
 |----------|----------|----------|
 | guaidaokakaxi    | 18     | Data     |
-| Row 2    | Data     | Data     |
+| BlockyDeer    | Data     | Data     |
 | Row 3    | Data     | Data     |
 | Row 4    | Data     | Data     |
 | Row 5    | Data     | Data     |
