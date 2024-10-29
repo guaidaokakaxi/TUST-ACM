@@ -90,7 +90,7 @@ https://github.com/Lightblues/Leetcode
 | 第8周（树，图入门）   | 最短路径算法（Dijkstra & Floyd），树和图的搜索查找（DFS/BFS） | 学会C++建图 & 树                   |          |
 | 第9周（图论算法加强） | 拓扑排序，树上倍增（LCA），树上DP              | 深入理解凸轮                      |          |
 | 第10周（字符串）      | Trie，KMP算法，Rabin-Karp算法                  |                                   |          |
-| 第11周（位运算操作）  | 各种位运算(&, |, ^, lowbit)性质               |                                   |          |
+| 第11周（位运算操作）  | 各种位运算(与, 或, 异或,非, lowbit)性质               |                                   |          |
 | 第12周（博弈入门）    | Nim游戏，SG函数，Grundy numbers（Mex）         |                                   |          |
 
 后续还有继续深入的训练，这里暂列11-1月
