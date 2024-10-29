@@ -4,7 +4,7 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 # todo 填写个人信息
 | 姓名 | github_id | 年级 | 学院 |
 |:----:|:----:|:----:|:----:|
-| 奥维 | guaidaokakaxi | 2014 | 软件工程 |
+| 奥维 | guaidaokakaxi |  | 软件工程 |
 | 柴渊元 | Row 2 | Row 3 | Row 4 |
 | 陈子瑛 | Row 2 | Row 3 | Row 4 |
 | 程少辰 | Row 2 | Row 3 | Row 4 |
