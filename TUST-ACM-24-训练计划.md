@@ -40,8 +40,8 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
     每周选题 : a1, 2024-11, 2025-04
     线上个人赛 : a1, 2025-02, 2025-04
     蓝桥杯 : a2, 2025-04, 2025-05
-    选出新负责人安排招新 : a3, 2025-08, 2025-11
-    icpc网络预选赛 : a4, 2025-09, 2025-10
+    选出新负责人安排招新 : a3, 2025-05, 2025-11
+    icpc网络赛 : a4, 2025-08, 2025-09
 
     section 项目组
     项目知识学习 & 与老师一起做项目 :b1, 2025-04, 2026-01
@@ -106,7 +106,7 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
     - 题目记录在 https://github.com/guaidaokakaxi/TUST-ACM/blob/main/quesitons.md
     - 模仿第一周创建一个第N周的表格（直接复制第一周）然后改一下列名为当前选的题目。https://github.com/users/guaidaokakaxi/projects/3/views/2  
     - 具体题目数量取决于题目难度，如果偏难题目数量就少一点，不要脱离大部队的实力选题，比如选cf2000分的题，没有任何意义  
-    - 题单选择可参考：https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md  or https://github.com/Lightblues/Leetcode 
+    - 题单选择可参考：https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md  or https://github.com/Lightblues/Leetcode
     - 题单不用局限于什么平台，力扣，cf，atc等等都无所谓，关键是保证题目质量。  
 3. <font color="pink">验题</font>&nbsp;&nbsp;<font color="yellow">本周日 21:00前完成</font> : 小组内3人互相验证对方选择的题。  
     验题标准: <font color="#dd0000">todo 填写标准</font><br />
@@ -119,7 +119,7 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 3. 检查选题小组的题目在知识点、难度、重复性等方面是否适合。
 4. 督促选题小组在 <font color="yellow">本周日 21:00前</font> 完成下周题目的验题并发送github链接到群里。
 5. 督促选题小组在 <font color="yellow">下周日 22:00前</font> 将完成情况汇总发送在群里。
-   
+
 ### 3. 全员:
 1. 由于队员各自的专业课时间不同,24.11月-25.3月期间不组织集中的现场训练,全员至少完成每周选出的题来学习算法知识,预估每周需要的学习时间为30-50小时。
 2. <font color="pink">自愿参加</font> 每周五晚上的老师授课
