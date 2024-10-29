@@ -79,7 +79,8 @@ https://github.com/Lightblues/Leetcode
 需要参考
 https://github.com/users/guaidaokakaxi/projects/3/views/2
 模仿第一周创建一个第N周的表格（直接复制第一周）然后改一下列名为当前选的题目
-#### 所有成员需要在github的projects上更新自己的题目完成情况
+#### 所有成员需要在github的projects上更新自己的题目完成情况 类似这样:
+https://github.com/users/guaidaokakaxi/projects/3/views/2
 
 #### 实验室负责人工作
 实验室负责人hangz，zzh，ws 负责关注每一组负责人的完成进度，比如12周的题单，需要在11周的周四前选出，需要在11周的周日前完成验题（12周负责的3位同学要做一遍题目确保题目没有问题以及质量不错）
