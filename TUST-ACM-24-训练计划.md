@@ -65,16 +65,19 @@ TUST-ACM战队成立于2024年5月，初始成员由贾舒奥维，赵子涵，�
 11-1月训练计划
 预估的每周平均学习时间得在30-50小时左右才能完成
 ## 运行机制
-每周都会有一个小组作为负责人，负责人由3人一组组成，一个人最多参与2次负责人；
+每周都会有一个小组作为负责人，负责人由3人一组组成，一个人最多当2次负责人；大家之间互相服务
 ### 负责人工作内容
 #### 提前学习负责该周的内容
 #### 选题单
-每周作业题单题量在12-20题，题单选择可参考下面：
+每周作业题单题量在10-20题（取决于题目难度，如果偏难题目数量就少一点，不要脱离大部队的实力选题，比如选cf2000分的题，没有任何意义），题单选择可参考下面：
 https://github.com/EndlessCheng/codeforces-go/blob/master/leetcode/SOLUTIONS.md
 https://github.com/Lightblues/Leetcode
 题单不用局限于什么平台，力扣，cf，atc等等都无所谓，关键是保证题目质量
 #### 3人互相验题
 举个例子，比如hangz,zzh,ws三人一组是第12周的负责人，那么至少提前一周，也就是第11周要准备好第12周的题目，并且3人之间都把选出来的12-20题全部做完，保证题目质量
+#### 3人负责关注本周自己选的题单的群内完成情况
+更新在本文档里，下面有说
+
 #### 实验室负责人工作
 实验室负责人hangz，zzh，ws 负责关注每一组负责人的完成进度，比如12周的题单，需要在11周的周四前选出，需要在11周的周日前完成验题（12周负责的3位同学要做一遍题目确保题目没有问题以及质量不错）
 
@@ -94,6 +97,22 @@ https://github.com/Lightblues/Leetcode
 | 第12周（博弈入门）    | Nim游戏，SG函数，Grundy numbers（Mex）         |                                   |          |
 
 后续还有继续深入的训练，这里暂列11-1月
+
+# 每周题单（每周负责人更新这里，完全模仿第一周格式）
+## 第一周（11月4号-11月10号）
+| 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+|--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
+| stack        | [有效的括号](https://leetcode.cn/problems/valid-parentheses/description/?envType=problem-list-v2&envId=stack)     | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 简单 |
+| stack        | [最小栈](https://leetcode.cn/problems/min-stack/description/?envType=problem-list-v2&envId=stack)                 | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 简单 |
+| stack        | [用栈实现队列](https://leetcode.cn/problems/implement-queue-using-stacks/description/?envType=problem-list-v2&envId=stack) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 简单 |
+| stack，queue | [用队列实现栈](https://leetcode.cn/problems/implement-stack-using-queues/description/?envType=problem-list-v2&envId=queue) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 简单 |
+| queue        | [设计循环队列](https://leetcode.cn/problems/design-circular-queue/description/?envType=problem-list-v2&envId=queue) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 中等 |
+| queue        | [Dota2 参议院](https://leetcode.cn/problems/dota2-senate/description/?envType=problem-list-v2&envId=queue)       | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 中等 |
+| dfs          | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/description/?envType=problem-list-v2&envId=depth-first-search) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 简单 |
+| 搜索         | [岛屿数量](https://leetcode.cn/problems/number-of-islands/description/?envType=problem-list-v2&envId=breadth-first-search) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 中等 |
+| stack        | [最长有效括号](https://leetcode.cn/problems/longest-valid-parentheses/description/?envType=problem-list-v2&envId=stack) | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
+| stack        | [接雨水](https://leetcode.cn/problems/trapping-rain-water/description/?envType=problem-list-v2&envId=stack)      | 力扣题解区找高赞答案（可优先看灵茶山艾府，liweiwei1419，宫水三叶） | 困难 |
+
 
 
 
