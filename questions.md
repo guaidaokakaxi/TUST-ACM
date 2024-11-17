@@ -4,21 +4,21 @@
 # 第三周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
-1.|李迪菲||链表||反转链表|https://leetcode.cn/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=top-100-liked).|力扣高分题解 |简单|
-2.|李迪菲||链表||随机链表复制|https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-100-liked)|力扣高分题解|中等|
-3.|李迪菲||链表||两两交换链表结点|https://leetcode.cn/problems/swap-nodes-in-pairs/description/?envType=study-plan-v2&envId=top-100-liked)|力扣高分题解|中等|
-4.|李迪菲||链表||两链表相加|https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-100-liked).|力扣高分题解|中等|
-5.|黄天赐||循环链表||旋转链表|https://leetcode-cn.com/problems/rotate-list/|力扣高分题解|中等|
-6.|黄天赐||快排||数组中的第K个最大元素|https://leetcode-cn.com/problems/kth-largest-element-in-an-array/|力扣高分题解|中等|
-7.|黄天赐||快排||颜色分类|https://leetcode-cn.com/problems/sort-colors/|力扣高分题解|中等|
-8.|黄天赐||快速选择||前K个高频元素|https://leetcode.cn/problems/top-k-frequent-elements|力扣高分题解|中等|
-9.|赵强||排序，链表||排序链表|https://leetcode.cn/problems/sort-list|力扣高分题解|中等|
-10.|李迪菲||链表||K个一组反转链表|https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-100-liked)|力扣高分题解|困难|
-11.|黄天赐||双向链表||设计一个文本编辑器|https://leetcode-cn.com/problems/design-a-text-editor/|力扣高分题解|困难|
-12.|赵强||快排||超级计算机|https://www.lanqiao.cn/problems/2040/learning/?page=1&first_category_id=1&tags=%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F&tag_relation=intersection|蓝桥题解|困难|
-13.|赵强||链表||整数删除|https://www.lanqiao.cn/problems/3515/learning/?page=1&first_category_id=1&tags=%E9%93%BE%E8%A1%A8&tag_relation=intersection&difficulty=10|蓝桥题解|困难|
-14.|赵强||快排||瑞士轮|https://www.lanqiao.cn/problems/398/learning/?page=1&first_category_id=1&tags=%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F&tag_relation=intersection&difficulty=10|蓝桥题解|困难|
-15.|赵强||链表||反转偶数长度组的节点|https://www.lanqiao.cn/problems/3150/learning/?page=1&first_category_id=1&tags=%E9%93%BE%E8%A1%A8&tag_relation=intersection&difficulty=10|力扣题解|中等|
+|李迪菲||链表|反转链表|https://leetcode.cn/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=top-100-liked).|力扣高分题解 |简单|
+|李迪菲||链表|随机链表复制|https://leetcode.cn/problems/copy-list-with-random-pointer/description/?envType=study-plan-v2&envId=top-100-liked)|力扣高分题解|中等|
+|李迪菲||链表|两两交换链表结点|https://leetcode.cn/problems/swap-nodes-in-pairs/description/?envType=study-plan-v2&envId=top-100-liked)|力扣高分题解|中等|
+|李迪菲||链表|两链表相加|https://leetcode.cn/problems/add-two-numbers/description/?envType=study-plan-v2&envId=top-100-liked).|力扣高分题解|中等|
+|黄天赐||循环链表|旋转链表|https://leetcode-cn.com/problems/rotate-list/|力扣高分题解|中等|
+|黄天赐||快排|数组中的第K个最大元素|https://leetcode-cn.com/problems/kth-largest-element-in-an-array/|力扣高分题解|中等|
+|黄天赐||快排|颜色分类|https://leetcode-cn.com/problems/sort-colors/|力扣高分题解|中等|
+|黄天赐||快速选择|前K个高频元素|https://leetcode.cn/problems/top-k-frequent-elements|力扣高分题解|中等|
+|赵强||排序，链表|排序链表|https://leetcode.cn/problems/sort-list|力扣高分题解|中等|
+|李迪菲||链表|K个一组反转链表|https://leetcode.cn/problems/reverse-nodes-in-k-group/description/?envType=study-plan-v2&envId=top-100-liked)|力扣高分题解|困难|
+|黄天赐||双向链表|设计一个文本编辑器|https://leetcode-cn.com/problems/design-a-text-editor/|力扣高分题解|困难|
+|赵强||快排|超级计算机|https://www.lanqiao.cn/problems/2040/learning/?page=1&first_category_id=1&tags=%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F&tag_relation=intersection|蓝桥题解|困难|
+|赵强||链表|整数删除|https://www.lanqiao.cn/problems/3515/learning/?page=1&first_category_id=1&tags=%E9%93%BE%E8%A1%A8&tag_relation=intersection&difficulty=10|蓝桥题解|困难|
+|赵强||快排|瑞士轮|https://www.lanqiao.cn/problems/398/learning/?page=1&first_category_id=1&tags=%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F&tag_relation=intersection&difficulty=10|蓝桥题解|困难|
+|赵强||链表|反转偶数长度组的节点|https://www.lanqiao.cn/problems/3150/learning/?page=1&first_category_id=1&tags=%E9%93%BE%E8%A1%A8&tag_relation=intersection&difficulty=10|力扣题解|中等|
 
 # 第二周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
