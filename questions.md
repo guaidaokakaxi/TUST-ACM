@@ -1,6 +1,12 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
-
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/satisfiability-of-equality-equations/description/).|力扣高分题解 |简单|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/accounts-merge/description/).|力扣高分题解 |中等|
+|刘峻涛|奥维|并查集|[GCD并查集](https://leetcode.cn/problems/greatest-common-divisor-traversal/description/).|力扣高分题解 |困难|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/redundant-connection/description/?envType=problem-list-v2&envId=union-find).|力扣高分题解 |中等|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/redundant-connection-ii/description/).|力扣高分题解 |很TM难|
 # 第三周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
