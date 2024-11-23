@@ -1,6 +1,18 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
 
+# 第四周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
+|郑俊岩|韩高臻|优先队列|[[NOIP2004提高组]合并果子](https://www.luogu.com.cn/problem/P1090)|题解|普及/提高-|
+|郑俊岩|韩高臻|单调队列,二分|[[NOIP2017普及组]跳房子](https://www.luogu.com.cn/problem/P3957)|题解|提高+/省选−|
+|郑俊岩|韩高臻|单调队列|[滑动窗口/[模板]单调队列](https://www.luogu.com.cn/problem/P1886)|题解|普及/提高−|
+|郑俊岩|韩高臻|单调队列,二分|[[MXOI Round 2]队列](https://www.luogu.com.cn/problem/P9588)|题解|普及+/提高|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/satisfiability-of-equality-equations/description/).|力扣高分题解 |简单|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/accounts-merge/description/).|力扣高分题解 |中等|
+|刘峻涛|奥维|并查集|[GCD并查集](https://leetcode.cn/problems/greatest-common-divisor-traversal/description/).|力扣高分题解 |困难|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/redundant-connection/description/?envType=problem-list-v2&envId=union-find).|力扣高分题解 |中等|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/redundant-connection-ii/description/).|力扣高分题解 |很TM难|
 |李享潞|奥维|单调栈|[发射站](https://www.luogu.com.cn/problem/P1901).|洛谷看高分题解 |普及+/提高|
 |李享潞|奥维|单调栈|[每日温度](https://leetcode.cn/problems/daily-temperatures/description/).|力扣高分题解 |中等|
 |李享潞|奥维|单调栈|[柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=problem-list-v2&envId=monotonic-stack).|力扣高分题解 |困难|
