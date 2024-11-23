@@ -8,6 +8,12 @@
 |郑俊岩|韩高臻|单调队列,二分|[[NOIP2017普及组]跳房子](https://www.luogu.com.cn/problem/P3957)|题解|提高+/省选−|
 |郑俊岩|韩高臻|单调队列|[滑动窗口/[模板]单调队列](https://www.luogu.com.cn/problem/P1886)|题解|普及/提高−|
 |郑俊岩|韩高臻|单调队列,二分|[[MXOI Round 2]队列](https://www.luogu.com.cn/problem/P9588)|题解|普及+/提高|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/satisfiability-of-equality-equations/description/).|力扣高分题解 |简单|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/accounts-merge/description/).|力扣高分题解 |中等|
+|刘峻涛|奥维|并查集|[GCD并查集](https://leetcode.cn/problems/greatest-common-divisor-traversal/description/).|力扣高分题解 |困难|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/redundant-connection/description/?envType=problem-list-v2&envId=union-find).|力扣高分题解 |中等|
+|刘峻涛|奥维|并查集|[并查集](https://leetcode.cn/problems/redundant-connection-ii/description/).|力扣高分题解 |很TM难|
+
 # 第三周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
