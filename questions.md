@@ -16,7 +16,7 @@
 |李享潞|奥维|单调栈|[发射站](https://www.luogu.com.cn/problem/P1901).|洛谷看高分题解 |普及+/提高|
 |李享潞|奥维|单调栈|[每日温度](https://leetcode.cn/problems/daily-temperatures/description/).|力扣高分题解 |中等|
 |李享潞|奥维|单调栈|[柱状图中最大的矩形](https://leetcode.cn/problems/largest-rectangle-in-histogram/description/?envType=problem-list-v2&envId=monotonic-stack).|力扣高分题解 |困难|
-|李享潞|奥维|单调栈|[美丽塔 II](https://leetcode.cn/problems/redundant-connection/description/?envType=problem-list-v2&envId=union-find).|力扣高分题解 |中等|
+|李享潞|奥维|单调栈|[美丽塔 II](https://leetcode.cn/problems/beautiful-towers-ii/description/).|力扣高分题解 |中等|
 
 # 第三周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
