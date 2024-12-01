@@ -3,11 +3,11 @@
 # 第五周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
+|赵子涵|奥维|GCD|[最大公约数](https://www.luogu.com.cn/problem/B4025)|洛谷题解|入门|
 |廖玥君|奥维|裴蜀定理/BFS/DFS|[序列中不同最大公约数的数目](https://leetcode.cn/problems/number-of-different-subsequences-gcds/description/)|力扣题解|中等|
 |廖玥君|奥维|GCD/LCM|[水壶问题](https://leetcode.cn/problems/water-and-jug-problem/description/)|洛谷题解|普及|
 |廖玥君|奥维|GCD/LCM|[string LCM](https://www.luogu.com.cn/problem/CF1473B)|洛谷题解|普及|
 |廖玥君|奥维|GCD/LCM|[GCD vs LCM](https://www.luogu.com.cn/problem/CF1665A)|力扣灵茶山|困难|
-|赵子涵|奥维|GCD|[最大公约数](https://www.luogu.com.cn/problem/B4025)|洛谷题解|入门|
 |赵子涵|奥维|GCD/LCM|[最大公约数和最小公倍数问题](https://www.luogu.com.cn/problem/P1029)|洛谷题解|普及|
 |赵子涵|奥维|GCD|[等差数列](https://www.luogu.com.cn/problem/P8682)|洛谷题解|普及|
 |赵子涵|奥维|GCD|[裴蜀定理](https://www.luogu.com.cn/problem/P4549)|洛谷题解|普及|
