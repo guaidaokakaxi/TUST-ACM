@@ -1,5 +1,20 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+# 第六周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
+|杨欣茹|王森|分解质因数|[P9063 [yLOI2023] 分解只因数](https://www.luogu.com.cn/problem/P9063)|洛谷题解|入门|
+|王森|王森|分解质因数|[Almost Prime](https://codeforces.com/problemset/problem/26/A?csrf_token=729b997e92aa493486ffa8cd23feaccf)|谷歌搜索题解|A|
+|王森|王森|大数取模|[Fedya and Maths](https://codeforces.com/contest/456/problem/B)|谷歌搜索题解|B|
+|杨欣茹|王森|分解质因数|[P8054 A 质因数](https://www.luogu.com.cn/problem/P8054)|洛谷题解|普及|
+|杨欣茹|王森|分解质因数|[P2626 斐波那契数列（升级版）](https://www.luogu.com.cn/problem/P2626)|洛谷题解|普及|
+|杨欣茹|王森|欧拉筛|[P3383 【模板】线性筛素数](https://www.luogu.com.cn/problem/P3383)|洛谷题解|普及|
+|杨欣茹|王森|欧拉筛|[2521. 数组乘积中的不同质因数数目](https://leetcode.cn/problems/distinct-prime-factors-of-product-of-array/description/3)|leetcode题解|中等|
+|赵兴理|王森|快速幂|[P1226 【模板】快速幂](https://www.luogu.com.cn/problem/P1226)|洛谷题解|普及|
+|赵兴理|王森|快速幂|[372. 超级次方](https://leetcode.cn/problems/super-pow/)|leetcode题解|中等|
+|赵兴理|王森|快速幂取模|[2961. 双模幂运算](https://leetcode.cn/problems/double-modular-exponentiation/description/)|leetcode题解|中等|
+|赵兴理|王森|快速幂|[2787. 将一个数字表示成幂的和的方案数](https://leetcode.cn/problems/ways-to-express-an-integer-as-sum-of-powers/description/)|leetcode题解|中等|
+|王森|王森|快速幂|[C. Magic Five](hhttps://codeforces.com/problemset/problem/327/C)|谷歌搜索|中等+|
 # 第五周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
