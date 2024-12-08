@@ -14,7 +14,7 @@
 |赵兴理|王森|快速幂|[372. 超级次方](https://leetcode.cn/problems/super-pow/)|leetcode题解|中等|
 |赵兴理|王森|快速幂取模|[2961. 双模幂运算](https://leetcode.cn/problems/double-modular-exponentiation/description/)|leetcode题解|中等|
 |赵兴理|王森|快速幂|[2787. 将一个数字表示成幂的和的方案数](https://leetcode.cn/problems/ways-to-express-an-integer-as-sum-of-powers/description/)|leetcode题解|中等|
-|王森|王森|快速幂|[C. Magic Five](hhttps://codeforces.com/problemset/problem/327/C)|谷歌搜索|中等+|
+|王森|王森|快速幂|[C. Magic Five](https://codeforces.com/problemset/problem/327/C)|谷歌搜索|中等+|
 # 第五周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
