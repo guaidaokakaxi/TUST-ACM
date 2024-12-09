@@ -18,7 +18,6 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 | 刘浚昊 | Row 2 | Row 3 | Row 4 |
 | 求哲 | Row 2 | Row 3 | Row 4 |
 | 石佳帅 | Row 2 | Row 3 | Row 4 |
-| 宋静姝 | Row 2 | Row 3 | Row 4 |
 | 王孙上 | Row 2 | Row 3 | Row 4 |
 | 王炫懿 | Row 2 | Row 3 | Row 4 |
 | 吴迪 | Row 2 | Row 3 | Row 4 |
@@ -29,6 +28,7 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 | 赵涵悦 | Row 2 | Row 3 | Row 4 |
 | 赵兴理 | Row 2 | Row 3 | Row 4 |
 | 郑俊岩 | Row 2 | Row 3 | Row 4 |
+| ~~宋静姝~~ | Row 2 | Row 3 | Row 4 |
 
 # 三、2024-2025 TimeLine
 ```mermaid
