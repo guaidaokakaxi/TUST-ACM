@@ -1,5 +1,24 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+# 第七周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
+|赵涵悦|韩高臻|背包问题|[416. 分割等和子集](https://leetcode.cn/problems/partition-equal-subset-sum/description/)|leetcode题解|中等|
+|赵涵悦|韩高臻|背包问题|[1049. 最后一块石头的重量 II](https://leetcode.cn/problems/last-stone-weight-ii/description/)|leetcode题解|中等|
+|赵涵悦|韩高臻|背包问题|[139. 单词拆分](https://leetcode.cn/problems/word-break/description/)|leetcode题解|中等|
+|赵涵悦|韩高臻|背包问题|[518. 零钱兑换 II](https://leetcode.cn/problems/coin-change-ii/description/)|leetcode题解|中等|
+|殷雄|韩高臻|最大子数组和|[最大子数组和](https://leetcode.cn/problems/maximum-subarray/description/)|leetcode题解|中等|
+|殷雄|韩高臻|最大子数组和|[找到最大开销的子字符串](https://leetcode.cn/problems/find-the-substring-with-maximum-cost/description/)|leetcode题解|中等|
+|殷雄|韩高臻|最大子数组和|[拼接数组的最大分数](https://leetcode.cn/problems/maximum-score-of-spliced-array/description/)|leetcode题解|困难|
+|殷雄|韩高臻|最大子数组和|[1186. 删除一次得到子数组最大和](https://leetcode.cn/problems/maximum-subarray-sum-with-one-deletion/description/)|leetcode题解|中等|
+|王孙上|韩高臻|最长单增子序列|[P1020 [NOIP1999 提高组] 导弹拦截](https://www.luogu.com.cn/problem/P1020)|洛谷题解|提高|
+|王孙上|韩高臻|01背包|[P1802 5 倍经验日](https://www.luogu.com.cn/problem/P1802)|洛谷题解|普及|
+|王孙上|韩高臻|最长单增子序列|[P1091 [NOIP2004 提高组] 合唱队形](https://www.luogu.com.cn/problem/P1091)|洛谷题解|普及|
+|王孙上|韩高臻|最长公共子序列|[P1435 [IOI2000] 回文字串](https://www.luogu.com.cn/problem/P1435)|洛谷题解|普及|
+|王孙上|韩高臻|完全背包|[P5662 [CSP-J2019] 纪念品](https://www.luogu.com.cn/problem/P5662)|洛谷题解|普及|
+|王孙上|韩高臻|普通DP|[P1564 膜拜](https://www.luogu.com.cn/problem/P1564)|洛谷题解|普及|
+|王孙上|韩高臻|背包问题|[P1507 NASA的食物计划](https://www.luogu.com.cn/problem/P1507)|洛谷搜索|普及|
+|王孙上|韩高臻|完全背包|[1. 小明的背包2](https://www.lanqiao.cn/problems/1175/learning/?page=1&first_category_id=1&second_category_id=8&tags=%E5%AE%8C%E5%85%A8%E8%83%8C%E5%8C%85&tag_relation=intersection)|蓝桥题解|困难|
 # 第六周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
