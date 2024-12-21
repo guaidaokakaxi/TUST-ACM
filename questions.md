@@ -1,5 +1,20 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+# 第八周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
+|郑俊岩|赵子涵|最短路|[P4779[模板]单源最短路径(标准版)](https://www.luogu.com.cn/problem/P4779)|洛谷题解|普及/提高−|
+|郑俊岩|赵子涵|最短路|[P2420 让我们异或吧](https://www.luogu.com.cn/problem/P2420)|洛谷题解|普及/提高−|
+|郑俊岩|赵子涵|DFS|[P1037[NOIP2002普及组]产生数](https://www.luogu.com.cn/problem/P1037)|洛谷题解|普及/提高−|
+|郑俊岩|赵子涵|最短路|[P3958[NOIP2017提高组]奶酪](https://www.luogu.com.cn/problem/P3958)|洛谷题解|普及/提高−|
+|王炫懿|赵子涵|向下DFS，树的深度|[二叉树的右视图](https://leetcode.cn/problems/binary-tree-right-side-view/description/)|Leetcode题解|中等|
+|王炫懿|赵子涵|向下DFS|[P3958[二叉树中的伪回文路径](https://leetcode.cn/problems/pseudo-palindromic-paths-in-a-binary-tree/)|Leetcode题解|中等|
+|王炫懿|赵子涵|向上DFS、删除点|[删点成林](https://leetcode.cn/problems/delete-nodes-and-return-forest/)|Leetcode题解|中等|
+|王炫懿|赵子涵|树的直径|[感染二叉树需要的总时间](https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected/)|Leetcode题解|中等|
+|黄天赐|赵子涵|bfs|[01矩阵](https://leetcode.cn/problems/01-matrix/description/)|Leetcode题解|中等|
+|黄天赐|赵子涵|bfs|[水位上升的泳池中游泳](https://leetcode.cn/problems/swim-in-rising-water/description/)|Leetcode题解|困难|
+|黄天赐|赵子涵|bfs|[隔离病毒](https://leetcode.cn/problems/contain-virus/description/)|Leetcode题解|困难|
+|黄天赐|赵子涵|bfs|[公交路线](https://leetcode.cn/problems/bus-routes/description/)|Leetcode题解|困难|
 # 第七周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------|
