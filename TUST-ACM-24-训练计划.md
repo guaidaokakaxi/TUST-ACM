@@ -6,26 +6,26 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 |:----:|:----:|:----:|:----:|
 | 奥维 | guaidaokakaxi |  | 软件工程 |
 | 柴渊元 | Row 2 | Row 3 | Row 4 |
-| 陈子瑛 | Row 2 | Row 3 | Row 4 |
+| ～～陈子瑛～～ | Row 2 | Row 3 | Row 4 |
 | 程少辰 | Row 2 | Row 3 | Row 4 |
 | 韩高臻 | Row 2 | Row 3 | Row 4 |
 | 黄天赐 | Row 2 | Row 3 | Row 4 |
 | 李迪菲 | Row 2 | Row 3 | Row 4 |
 | 赵强 | Row 2 | Row 3 | Row 4 |
-| 李享潞 | Row 2 | Row 3 | Row 4 |
+| ~~李享潞~~ | Row 2 | Row 3 | Row 4 |
 | 廖玥珺 | Row 2 | Row 3 | Row 4 |
 | 刘峻涛 | Row 2 | Row 3 | Row 4 |
 | 刘浚昊 | Row 2 | Row 3 | Row 4 |
 | 求哲 | Row 2 | Row 3 | Row 4 |
 | 石佳帅 | Row 2 | Row 3 | Row 4 |
-| 王孙上 | Row 2 | Row 3 | Row 4 |
+| ～～王孙上～～ | Row 2 | Row 3 | Row 4 |
 | 王炫懿 | Row 2 | Row 3 | Row 4 |
 | 吴迪 | Row 2 | Row 3 | Row 4 |
 | 吴文天 | Row 2 | Row 3 | Row 4 |
 | 吴宇轩 | Row 2 | Row 3 | Row 4 |
 | 杨欣茹 | Row 2 | Row 3 | Row 4 |
 | 殷雄 | Row 2 | Row 3 | Row 4 |
-| 赵涵悦 | Row 2 | Row 3 | Row 4 |
+| ~~赵涵悦~~ | Row 2 | Row 3 | Row 4 |
 | 赵兴理 | Row 2 | Row 3 | Row 4 |
 | 郑俊岩 | Row 2 | Row 3 | Row 4 |
 | ~~宋静姝~~ | Row 2 | Row 3 | Row 4 |
