@@ -1,5 +1,19 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+# 第九周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
+|吴宇轩|王森|拓扑|[给定条件下构造矩阵](https://leetcode.cn/problems/build-a-matrix-with-conditions/description/)|Leetcode题解|困难|
+|吴宇轩|王森|树形dp|[感染二叉树需要的总时间](https://leetcode.cn/problems/amount-of-time-for-binary-tree-to-be-infected/description/)|Leetcode题解|中等|
+|吴宇轩|王森|树形dp|[打家劫舍 III](https://leetcode.cn/problems/house-robber-iii/description/)|Leetcode题解|中等|
+|吴宇轩|王森|树形dp|[在树上执行操作以后得到的最大分数](https://leetcode.cn/problems/maximum-score-after-applying-operations-on-a-tree/description/)|Leetcode题解|中等|
+|吴迪|王森|拓扑|[【模板】拓扑排序 / 家谱树](https://www.luogu.com.cn/problem/B3644)|洛谷题解|普及-|
+|吴迪|王森|拓扑|[排序](https://www.luogu.com.cn/problem/P1347)|洛谷题解|普及+/提高|
+|吴迪|王森|拓扑|[给任务排序 Ordering Tasks](https://www.luogu.com.cn/problem/UVA10305)|洛谷题解|普及/提高−|
+|吴文天|王森|LCA|[【模板】最近公共祖先（LCA）](https://www.luogu.com.cn/problem/P3379)|洛谷题解|普及/提高−|
+|吴文天|王森|LCA|[大量的工作沟通](https://www.luogu.com.cn/problem/P10113)|洛谷题解|普及/提高−|
+|吴文天|王森|LCA|[Milk Visits S](https://www.luogu.com.cn/problem/P5836)|洛谷题解|普及+/提高|
+|吴文天|王森|LCA|[How far away ？](https://vjudge.net/problem/HDU-2586)|[题解](https://blog.csdn.net/a1097304791/article/details/102476906)|困难|
 # 第八周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
