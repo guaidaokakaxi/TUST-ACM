@@ -1,5 +1,19 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+# 第十周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
+|求哲|韩高臻|Rabin-Karp|[最长重复子数组](https://leetcode.cn/problems/maximum-length-of-repeated-subarray/description/)|Leetcode题解|中等|
+|求哲|韩高臻|Rabin-Karp|[设计哈希集合](https://leetcode.cn/problems/design-hashset/description/?envType=problem-list-v2&envId=hash-function)|Leetcode题解|简单|
+|求哲|韩高臻|Rabin-Karp|[设计哈希映射](https://leetcode.cn/problems/design-hashmap/?envType=problem-list-v2&envId=hash-function)|Leetcode题解|简单|
+|求哲|韩高臻|Rabin-Karp|[重复的DNA序列](https://leetcode.cn/problems/repeated-dna-sequences/description/?envType=problem-list-v2&envId=hash-function )|Leetcode题解|中等|
+|程少辰||韩高臻|kmp|[你也喜欢幸运字符串吗？](https://www.lanqiao.cn/problems/3178/learning/?page=1&first_category_id=1&tags=KMP&tag_relation=intersection)|蓝桥杯题解|模板/困难|
+|程少辰|韩高臻|kmp|[前缀数量大比拼](https://www.lanqiao.cn/problems/3780/learning/?page=1&first_category_id=1&tags=KMP&tag_relation=intersection)|蓝桥杯题解|模板/简单|
+|程少辰|韩高臻|kmp|[无线传输](https://www.luogu.com.cn/problem/P4391)|洛谷题解|普及/提高−|
+|柴渊元|韩高臻|Trie|[实现 Trie (前缀树)）](https://leetcode.cn/problems/implement-trie-prefix-tree/description/)|Leetcode题解|中等|
+|柴渊元|韩高臻|Trie|[前缀统计](https://www.luogu.com.cn/problem/P10470P10470)|洛谷题解|提高|
+|柴渊元|韩高臻|Trie|[最长公共前缀](https://leetcode.cn/problems/longest-common-prefix/description/14. )|Leetcode题解|简单|
+|柴渊元|韩高臻|Trie|[字典序的第K小数字](https://leetcode.cn/problems/k-th-smallest-in-lexicographical-order/description/)|Leetcode题解|困难|
 # 第九周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
