@@ -11,6 +11,11 @@
 |吴文天|赵子涵|位运算|[统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/description/)|Leetcode题解|中等|
 |吴文天|赵子涵|位运算|[异或和之和](https://www.luogu.com.cn/problem/P9236)|洛谷题解|普及+/提高|
 |吴文天|赵子涵|位运算|[快速幂](https://www.luogu.com.cn/problem/P1226)|洛谷题解|普及-|
+|吴宇轩|赵子涵|位运算|[或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[汉明距离总和](https://leetcode.cn/problems/total-hamming-distance/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[构造最小位运算数组 II](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-ii/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[最大或值](https://leetcode.cn/problems/maximum-or/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[最大异或乘积](https://leetcode.cn/problems/maximum-xor-product/)|力扣题解|中等|
 
 # 第十周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
