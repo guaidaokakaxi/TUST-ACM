@@ -1,5 +1,10 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+|吴宇轩|赵子涵|位运算|[或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[汉明距离总和](https://leetcode.cn/problems/total-hamming-distance/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[构造最小位运算数组 II](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-ii/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[最大或值](https://leetcode.cn/problems/maximum-or/)|力扣题解|中等|
+|吴宇轩|赵子涵|位运算|[最大异或乘积](https://leetcode.cn/problems/maximum-xor-product/)|力扣题解|中等|
 # 第十周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
