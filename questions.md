@@ -1,10 +1,22 @@
 # 第x周
 ## todo,仿照下面第一周的格式即可,注意！！！！！！！！！不是一定要力扣的题目，cf和atc等其他oj也有很多好题
+
+# 第十一周
+| 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
+| ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
+|李享潞|赵子涵| 位运算 | [Unknown Mother-Goose](https://www.luogu.com.cn/problem/P5539) | 洛谷题解 | 提高+/省选− |
+|李享潞|赵子涵| 位运算 | [异或橙子](https://www.luogu.com.cn/problem/P6225) | 洛谷题解 | 普及+/提高 |
+|李享潞|赵子涵| 位运算 | [靶形数独](https://www.luogu.com.cn/problem/P1074) | 洛谷题解 | 提高+/省选− |
+|吴文天|赵子涵|位运算|[奇偶位数](https://leetcode.cn/problems/number-of-even-and-odd-bits/description/)|Leetcode题解|简单|
+|吴文天|赵子涵|位运算|[统计美丽子数组数目](https://leetcode.cn/problems/count-the-number-of-beautiful-subarrays/description/)|Leetcode题解|中等|
+|吴文天|赵子涵|位运算|[异或和之和](https://www.luogu.com.cn/problem/P9236)|洛谷题解|普及+/提高|
+|吴文天|赵子涵|位运算|[快速幂](https://www.luogu.com.cn/problem/P1226)|洛谷题解|普及-|
 |吴宇轩|赵子涵|位运算|[或值至少为 K 的最短子数组 II](https://leetcode.cn/problems/shortest-subarray-with-or-at-least-k-ii/)|力扣题解|中等|
 |吴宇轩|赵子涵|位运算|[汉明距离总和](https://leetcode.cn/problems/total-hamming-distance/)|力扣题解|中等|
 |吴宇轩|赵子涵|位运算|[构造最小位运算数组 II](https://leetcode.cn/problems/construct-the-minimum-bitwise-array-ii/)|力扣题解|中等|
 |吴宇轩|赵子涵|位运算|[最大或值](https://leetcode.cn/problems/maximum-or/)|力扣题解|中等|
 |吴宇轩|赵子涵|位运算|[最大异或乘积](https://leetcode.cn/problems/maximum-xor-product/)|力扣题解|中等|
+
 # 第十周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
 | ------ | ------ |--------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|------
