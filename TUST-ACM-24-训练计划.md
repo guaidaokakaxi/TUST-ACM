@@ -5,31 +5,31 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 | 姓名 | github_id | 年级 | 学院 |
 |:----:|:----:|:----:|:----:|
 | 奥维 | guaidaokakaxi |  | 软件工程 |
-| 柴渊元 | Row 2 | Row 3 | Row 4 |
-| ~~少辰~~ | Row 2 | Row 3 | Row 4 |
-| 韩高臻 | Row 2 | Row 3 | Row 4 |
-| 黄天赐 | Row 2 | Row 3 | Row 4 |
-| 李迪菲 | Row 2 | Row 3 | Row 4 |
-| 赵强 | Row 2 | Row 3 | Row 4 |
+| 柴渊元 | yvtian | Row 3 | Row 4 |
+| ~~少辰~~ | csclzy | Row 3 | Row 4 |
+| 韩高臻 | hangz | Row 3 | Row 4 |
+| 黄天赐 | mjiumengm | Row 3 | Row 4 |
+| 李迪菲 | Buckwheat. | Row 3 | Row 4 |
+| 赵强 | Winndy | Row 3 | Row 4 |
 | ~~廖玥珺~~ | Row 2 | Row 3 | Row 4 |
-| 刘峻涛 | Row 2 | Row 3 | Row 4 |
+| 刘峻涛 | Iridium1234 | Row 3 | Row 4 |
 | ~~刘浚昊~~ | Row 2 | Row 3 | Row 4 |
-| 求哲 | Row 2 | Row 3 | Row 4 |
-| 石佳帅 | Row 2 | Row 3 | Row 4 |
-| 王炫懿 | Row 2 | Row 3 | Row 4 |
-| 吴迪 | Row 2 | Row 3 | Row 4 |
-| 吴文天 | Row 2 | Row 3 | Row 4 |
-| 吴宇轩 | Row 2 | Row 3 | Row 4 |
+| 求哲 | KotoriItsuka | Row 3 | Row 4 |
+| 石佳帅 | 404EX | Row 3 | Row 4 |
+| 王炫懿 | Lynlane | Row 3 | Row 4 |
+| 吴迪 | flowerplus | Row 3 | Row 4 |
+| 吴文天 | Anatsumiki | Row 3 | Row 4 |
+| 吴宇轩 | xuanandyi | Row 3 | Row 4 |
 | ~~杨欣茹~~ | Row 2 | Row 3 | Row 4 |
-| 殷雄 | Row 2 | Row 3 | Row 4 |
-| 赵兴理 | Row 2 | Row 3 | Row 4 |
-| 郑俊岩 | Row 2 | Row 3 | Row 4 |
-| 朱世乐 | Row 2 | Row 3 | Row 4 |
-| 贺江阳 | Row 2 | Row 3 | Row 4 |
+| 殷雄 | Yyin3 393  | Row 3 | Row 4 |
+| 赵兴理 | lillee | Row 3 | Row 4 |
+| 郑俊岩 | VulpisFoglia | Row 3 | Row 4 |
+| 朱世乐 | shileye666 | Row 3 | Row 4 |
+| 贺江阳 | Sunstreamyheee | Row 3 | Row 4 |
 | ~~陈子瑛~~ | Row 2 | Row 3 | Row 4 |
 | ~~李享潞~~ | Row 2 | Row 3 | Row 4 |
 | ~~王孙上~~ | Row 2 | Row 3 | Row 4 |
-| ~~赵涵悦~~ | Row 2 | Row 3 | Row 4 |
+| ~~赵涵悦~~ | miaoaoaoz | Row 3 | Row 4 |
 | ~~宋静姝~~ | Row 2 | Row 3 | Row 4 |
 
 # 三、2024-2025 TimeLine
