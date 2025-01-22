@@ -5,18 +5,12 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 | 姓名 | github_id | 年级 | 学院 |
 |:----:|:----:|:----:|:----:|
 | 奥维 | guaidaokakaxi |  | 软件工程 |
-| 柴渊元 | Row 2 | Row 3 | Row 4 |
-| 韩高臻 | Row 2 | Row 3 | Row 4 |
-| 黄天赐 | Row 2 | Row 3 | Row 4 |
-| 李迪菲 | Row 2 | Row 3 | Row 4 |
-| 赵强 | Row 2 | Row 3 | Row 4 |
 | 柴渊元 | yvtian | Row 3 | Row 4 |
-| 程~~少辰~~ | csclzy | Row 3 | Row 4 |
+| ~~程少辰~~ | csclzy | Row 3 | Row 4 |
 | 韩高臻 | hangz | Row 3 | Row 4 |
 | 黄天赐 | mjiumengm | Row 3 | Row 4 |
 | 李迪菲 | Buckwheat. | Row 3 | Row 4 |
 | 赵强 | Winndy | Row 3 | Row 4 |
->>>>>>> 41efec6189ac4b2997369c2369fa8885b885ef8e
 | ~~廖玥珺~~ | Row 2 | Row 3 | Row 4 |
 | 刘峻涛 | Iridium1234 | Row 3 | Row 4 |
 | ~~刘浚昊~~ | Row 2 | Row 3 | Row 4 |
@@ -24,7 +18,7 @@ TUST-ACM战队成立于2024年5月。初始成员由贾舒奥维、赵子涵、�
 | 石佳帅 | 404EX | Row 3 | Row 4 |
 | 王炫懿 | Lynlane | Row 3 | Row 4 |
 | 吴迪 | flowerplus | Row 3 | Row 4 |
-| 吴文天 | Anatsumiki | Row 3 | Row 4 |
+| ~~吴文天~~ | Anatsumiki | Row 3 | Row 4 |
 | 吴宇轩 | xuanandyi | Row 3 | Row 4 |
 | ~~杨欣茹~~ | Row 2 | Row 3 | Row 4 |
 | 殷雄 | Yyin3 393  | Row 3 | Row 4 |
