@@ -8,6 +8,9 @@
 |李迪菲|王森|Grundy numbers（Mex）（博弈）|[Fox and Card Game](https://www.luogu.com.cn/problem/CF388C)|洛谷题解|提高+/省选−|
 |石佳帅||王森|Nim游戏|[新Nim游戏](https://www.luogu.com.cn/problem/P4301))|洛谷题解|提高+/省选−|
 |石佳帅|王森|Nim游戏|[【模板】Nim 游戏](https://www.luogu.com.cn/problem/P2197)|洛谷题解|模板/简单|
+|赵兴理|王森|Nim游戏|[Everything Nim]( https://www.luogu.com.cn/problem/CF1965A)|洛谷题解|普及/提高-|
+|赵兴理|王森|MEX|[Maximize Mex]( https://www.luogu.com.cn/problem/CF2021B|洛谷题解|普及-|
+|赵兴理|王森|SG函数|[P2575 高手过招]( https://www.luogu.com.cn/problem/P2575|洛谷题解|提高+/省选−|
 
 # 第十一周
 | 选题人 | 验题人 | 知识点       | 题目                                                                                                              | 题解                                                   | 难度 |
